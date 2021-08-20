@@ -4,5 +4,5 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 
 This project describes step-by-step procedure for building a machine learning (ML) model for stroke prediction and for analysing which features are most useful for the prediction.
 
-Dataset
-Dataset can be downloaded from the Kaggle stroke dataset
+# Dataset
+Dataset can be downloaded from https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients
