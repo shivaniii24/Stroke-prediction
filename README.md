@@ -32,6 +32,7 @@ The dataset contains 5110 real world observations and 10 different attributes:
 SVM
 
 Input: The dataset
+
 Output: Classification into 0 (no stroke) or 1 (stroke)
 
 # Dataset
