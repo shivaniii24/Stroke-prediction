@@ -28,5 +28,11 @@ The dataset contains 5110 real world observations and 10 different attributes:
 
 10)stroke: 1 if the patient had a stroke or 0 if not
 
+# Working of System
+SVM
+
+Input: The dataset
+Output: Classification into 0 (no stroke) or 1 (stroke)
+
 # Dataset
 Dataset can be downloaded from https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients
