@@ -41,4 +41,4 @@ The dataset contains 5110 real world observations and 10 different attributes:
 </br>
 
 ## => Dataset
-Refer dataset to download from [here](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients).
+Refer dataset to download from [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
